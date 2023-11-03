@@ -1,5 +1,5 @@
 0.0.0.0 tiktok.com
 0.0.0.0 vm.tiktok.com
-0.0.0.0 *.tiktok.com
+0.0.0.0 www.tiktok.com
 0.0.0.0 tiktok.com/*
 0.0.0.0 temu.com
